@@ -38,6 +38,8 @@ go mod tidy
 ## Run the app
 go run main.go
 
+![Image](https://github.com/user-attachments/assets/eb0831ab-3364-4c7a-bf2b-91518f7d3218)
+
 # Testing the API
 ## Using Curl
 ### Create Book
@@ -64,5 +66,5 @@ curl -X PUT http://localhost:3000/books/1 -H "Content-Type: application/json" -d
 ```
 curl -X DELETE http://localhost:3000/books/1
 ```
-![image1] (media/image1.png)
+![Image](https://github.com/user-attachments/assets/c94b16a3-7c80-4fed-be9a-bded7241625d)
 
